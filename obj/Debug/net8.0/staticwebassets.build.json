@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g8WCpcZiPqMEj88bX77hH5l1qErsA4+ZMz5QTO0zt3M=",
+  "Source": "datumEncrypt",
+  "BasePath": "_content/datumEncrypt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
